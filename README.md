@@ -1,4 +1,4 @@
-# Repo Modulo 3
+# Modulo 3
 Repositorio de Ejercicios de Pair Programming realizados durante el Módulo 3. 
 *Transformación y limpieza de Datos*.
 
